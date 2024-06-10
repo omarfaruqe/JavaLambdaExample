@@ -10,5 +10,4 @@ public class Runner {
         Circle circle = new Circle(circumferenceCalculation, 7);
         System.out.println("Circle circumference: " + circle.calculateResult());
     }
-    }
 }
